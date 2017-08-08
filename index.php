@@ -2,6 +2,7 @@
 33333
 44444
 5555
+7777
 namespace app\admin\controller;
 use think\Controller;
 
